@@ -1,0 +1,15 @@
+html, body {
+    height:100%;
+    margin:0;
+    display: flex;
+}
+.first-page {
+    width:50%;
+    height:50vh;
+    background:#79bad0;
+  
+}
+#boxTwo {
+    height:100%;
+    background:#79bad0;
+}

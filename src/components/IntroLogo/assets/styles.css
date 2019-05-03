@@ -1,0 +1,18 @@
+html, body {
+    /* height:100%; */
+    margin:0;
+    height:50vh;
+    width: 50%;
+    background:#d0799a;
+}
+.intro-logo {
+    /* width:100%; */
+   
+}
+#boxOne {
+    display:flex;
+    justify-content: center;
+    height:100vh;
+    background:#d0799a;
+}
+
